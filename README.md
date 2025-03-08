@@ -11,7 +11,7 @@ I have a degree in **Technology in Management Processes**, with MBAs in **Design
 Here are some of the main projects available in this repository:
 
 - 📊 **Data Analysis with SQL** – Data exploration and manipulation using SQL.
-- 📈 **Dashboards and Visualizations** – Using tools like Power BI and Python to create interactive dashboards.
+- 📈 **Dashboards and Visualizations** – Using tools like Power BI, Tableau and Python to create interactive dashboards.
 - 🐍 **Automation with Python** – Scripts for task automation and data analysis.
 
 ## 📫 Contact
@@ -38,7 +38,7 @@ Sou formado em **Tecnólogo em Processos Gerenciais**, com MBAs em **Design Thin
 Aqui estão alguns dos principais projetos disponíveis neste repositório:
 
 - 📊 **Análise de Dados com SQL** – Exploração e manipulação de dados usando SQL.
-- 📈 **Dashboards e Visualizações** – Uso de ferramentas como Power BI e Python para criar dashboards interativos.
+- 📈 **Dashboards e Visualizações** – Uso de ferramentas como Power BI, Tableau e Python para criar dashboards interativos.
 - 🐍 **Automação com Python** – Scripts para automação de tarefas e análise de dados.
 
 ## 📫 Contato

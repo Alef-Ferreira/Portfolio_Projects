@@ -36,6 +36,6 @@ Este projeto consiste em um dashboard interativo no Excel para analisar as venda
 - Relação entre a distância do deslocamento e a compra de bicicletas
 - Filtros interativos para segmentação de dados por estado civil, região e educação
 
-![Texto Alternativo](Excel Projects/Bike Sales/Bike Sales Project Screenshot.png)
+![Texto Alternativo](https://github.com/Alef-Ferreira/Portfolio_Projects/blob/main/Excel%20Projects/Bike%20Sales/Bike%20Sales%20Project%20Screenshot.png)
 <img src="" alt="Screenshot">
 

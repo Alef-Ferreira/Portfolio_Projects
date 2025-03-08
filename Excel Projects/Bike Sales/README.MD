@@ -37,5 +37,5 @@ Este projeto consiste em um dashboard interativo no Excel para analisar as venda
 - Filtros interativos para segmentação de dados por estado civil, região e educação
 
 
-<img src="Excel Projects/Bike Sales/Bike Sales Project Screenshot.png">
+<<img src="Excel Projects/Bike Sales/Bike Sales Project Screenshot.png" alt="Screenshot">
 

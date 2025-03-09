@@ -4,7 +4,6 @@
 This project presents an exploratory analysis of Airbnb data, using Tableau to visualize key insights about properties, location, pricing, and guest reviews. The goal is to provide an overview of lodging trends and pricing patterns across different regions.
 
 ## Technologies Used
-![Excel](https://img.shields.io/badge/excel-107c41?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/tableau-000066?style=for-the-badge&logo=tableau&logoColor=black)
 - **Data Source**: Airbnb Dataset
 - **Interactive Charts and Geospatial Maps**
@@ -29,7 +28,6 @@ This project presents an exploratory analysis of Airbnb data, using Tableau to v
 Este projeto apresenta uma análise exploratória dos dados do Airbnb, utilizando o Tableau para visualizar informações essenciais sobre as propriedades, localização, preços e avaliações dos imóveis. O objetivo é fornecer insights sobre tendências de hospedagem e padrões de preços em diferentes regiões.
 
 ## Tecnologias Utilizadas
-![Excel](https://img.shields.io/badge/excel-107c41?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/tableau-000066?style=for-the-badge&logo=tableau&logoColor=black)
 - **Fonte de Dados**: Dados do Airbnb
 - **Gráficos interativos e mapas geoespaciais**

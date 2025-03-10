@@ -37,4 +37,4 @@ O conjunto de dados vem de uma pesquisa com 630 profissionais de dados de difere
 3. Aplique filtros para analisar segmentos específicos de profissionais.
 
 
-!(https://github.com/Alef-Ferreira/Portfolio_Projects/blob/main/Power%20BI%20Projects/Professional%20Survey%20Project/Professional%20Survey%20Analysis%20Screenshot.jpg?raw=true)
+![Screensjot](https://github.com/Alef-Ferreira/Portfolio_Projects/blob/main/Power%20BI%20Projects/Professional%20Survey%20Project/Professional%20Survey%20Analysis%20Screenshot.jpg?raw=true)

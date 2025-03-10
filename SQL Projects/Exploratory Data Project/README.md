@@ -19,7 +19,7 @@ This project aims to perform Exploratory Data Analysis (EDA) using SQL. The file
 ---
 
 
-# README - Projeto de Análise Exploratória de Dados em SQL
+# Projeto de Análise Exploratória de Dados em SQL
 
 ## Descrição
 Este projeto tem como objetivo realizar uma Análise Exploratória de Dados (EDA) utilizando SQL. O arquivo `Exploratory Data Project.sql` contém consultas SQL projetadas para examinar, limpar e entender um conjunto de dados, identificando padrões, outliers e relações entre variáveis.
